@@ -11,6 +11,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0033-search-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,5 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
