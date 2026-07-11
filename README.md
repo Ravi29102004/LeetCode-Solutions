@@ -8,6 +8,7 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0001-two-sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
