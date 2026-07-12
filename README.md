@@ -33,6 +33,7 @@ Solutions of LeetCode Problem in C++/Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -75,9 +76,14 @@ Solutions of LeetCode Problem in C++/Java
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
