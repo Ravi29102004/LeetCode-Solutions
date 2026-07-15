@@ -15,6 +15,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +44,7 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -91,4 +94,12 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
