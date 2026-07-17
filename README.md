@@ -13,6 +13,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0047-permutations-ii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -24,6 +25,7 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1539-kth-missing-positive-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Backtracking
 |  |
