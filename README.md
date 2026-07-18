@@ -9,6 +9,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0001-two-sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -26,6 +27,7 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -42,6 +44,7 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -107,4 +110,12 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
