@@ -1,0 +1,28 @@
+class Solution {
+  public:
+    int getSecondLargest(vector<int> &arr) {
+        // code here
+          //initialise the value
+            int largest=INT_MIN;
+            int secondlargest=INT_MIN;
+        for(int i=0;i<arr.size();i++)
+        {
+            if(arr[i]>largest)
+            {
+                //update the value 
+                secondlargest=largest;
+                largest=arr[i];
+            }
+            //if not matching then it call again
+            else if(arr[i]>secondlargest && arr[i]!=largest)
+            {
+                secondlargest=arr[i];
+            }
+        }
+        //if doesnot exist it
+        if(secondlargest==INT_MIN)
+        return -1;
+        
+        return secondlargest;
+    }
+};
