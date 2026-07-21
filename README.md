@@ -102,6 +102,7 @@ Solutions of LeetCode Problem in C++/Java
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -116,6 +117,7 @@ Solutions of LeetCode Problem in C++/Java
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
