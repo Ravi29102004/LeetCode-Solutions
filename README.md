@@ -104,6 +104,7 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
 | ------- |
@@ -116,8 +117,13 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
