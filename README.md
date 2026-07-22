@@ -30,6 +30,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0020-valid-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
@@ -113,12 +115,14 @@ Solutions of LeetCode Problem in C++/Java
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
