@@ -37,11 +37,13 @@ Solutions of LeetCode Problem in C++/Java
 | [0015-3sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
