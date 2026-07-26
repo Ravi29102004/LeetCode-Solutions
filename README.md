@@ -15,6 +15,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0051-n-queens](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +57,7 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -132,6 +134,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0020-valid-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0844-backspace-string-compare](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
@@ -139,8 +142,13 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
