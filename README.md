@@ -25,12 +25,14 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Sorting
@@ -44,6 +46,7 @@ Solutions of LeetCode Problem in C++/Java
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
