@@ -169,4 +169,24 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
