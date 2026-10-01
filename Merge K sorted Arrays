@@ -1,0 +1,215 @@
+// class Solution {
+//   public:
+//method by using heap (min heap)
+//     vector<int> mergeArrays(vector<vector<int>> &mat) {
+//         // Code here
+        
+//         vector<pair<int, pair<int,int>>>temp;
+//         for(int i=0;i<mat.size();i++)
+//         {
+//             temp.push_back(make_pair(mat[i][0],make_pair(i,0)));
+//         }
+        
+        
+//         //Min heap
+//         priority_queue<pair<int, pair<int,int>>, vector<pair<int, pair<int,int>>>, greater<pair<int, pair<int,int>>>>p(temp.begin(),temp.end());
+        
+//         //data,row,column
+//         vector<int>ans;
+//         pair<int, pair<int,int>>Element;
+//         int i,  j;
+//         while(!p.empty())
+//         {
+//             Element=p.top();
+//             p.pop();
+//             i=Element.second.first;
+//             j=Element.second.second;
+            
+//             // Element ko answer me add karo
+//                       ans.push_back(Element.first);
+            
+//             if(j+1<mat[i].size())
+//             p.push(make_pair(mat[i][j+1], make_pair(i,j+1)));
+//         }
+        
+//         return ans;
+        
+        
+//     }
+// };
+
+
+
+// class Solution {
+//   public:
+  
+  
+//   void merge(vector<int>&mat, int start, int mid, int end)
+//   {
+//       vector<int>temp(end-start+1);
+//       int left=start, right=mid+1, index=0;
+      
+//       while(left<=mid && right<=end)
+//       {
+//           if(mat[left]<=mat[right])
+//           {
+//               temp[index]=mat[left];
+//               index++, left++;
+//           }
+//           else
+//           {
+//               temp[index]=right;
+//               index++, right++;
+//           }
+//       }
+//       //left mat is not empty yet
+//       while(left<=mid)
+//       {
+//           temp[index]=mat[left];
+//           index++, left++;
+          
+//       }
+//       //right mat is not empty yet
+//       while(right<=end)
+//       {
+//           temp[index]=mat[right];
+//           index++, right++;
+//       }
+//       index=0;
+//       while(start<=end)
+//       {
+//           mat[start]=temp[index];
+//           start++, index++;
+//       }
+//   }
+  
+  
+//   void mergesort(vector<vector<int>>& mat, int start, int end)
+//   {
+//       if(start==end)
+//       {
+//           return ;
+//       }
+//       int mid=start + (end - start) / 2;
+      
+//     //   //left side
+//     //   mergesort(mat,start,mid,portion/2);
+//     //   //right side
+//     //   mergesort(mat,mid+1,end,portion-portion/2);
+//     //   merge(mat,start,mid,end);
+    
+//     // Left half ke arrays merge
+//           vector<int> left =
+//               mergeKArrays(mat, start, mid);
+
+//           // Right half ke arrays merge
+//           vector<int> right =
+//               mergeKArrays(mat, mid + 1, end);
+
+//           // Dono sorted results ko merge
+//           return mergeTwoArrays(left, right);
+//   }
+  
+  
+  
+  
+  
+  
+//     vector<int> mergeArrays(vector<vector<int>> &mat) {
+//         // Code here
+        
+//     //   vector<int>ans;
+//     //   for(int i=0;i<mat.size();i++)
+//     //   for(int j=0;j<mat[i].size();j++)
+//     //   {
+//     //       ans.push_back(mat[i][j]);
+//     //   }
+       
+//     //   mergesort(ans,0,ans.size()-1,mat.size());
+//     //   return ans;
+        
+        
+        
+//         if(mat.empty())
+//                 return {};
+
+//             return mergeKArrays(mat, 0, mat.size() - 1);
+//     }
+// };
+
+
+
+
+//Merge Sort +divide-conquer method using and dividing by rows method
+
+class Solution {
+  public:
+
+  vector<int> merge(vector<int>&mat1, vector<int>&mat2)
+  {
+      vector<int>temp;
+
+      int left=0, right=0;
+
+      while(left<mat1.size() && right<mat2.size())
+      {
+          if(mat1[left]<=mat2[right])
+          {
+              temp.push_back(mat1[left]);
+              left++;
+          }
+          else
+          {
+              temp.push_back(mat2[right]);
+              right++;
+          }
+      }
+
+      while(left<mat1.size())
+      {
+          temp.push_back(mat1[left]);
+          left++;
+      }
+
+      while(right<mat2.size())
+      {
+          temp.push_back(mat2[right]);
+          right++;
+      }
+
+      return temp;
+  }
+
+
+  vector<int> mergesort(vector<vector<int>> &mat, int start, int end)
+  {
+      if(start==end)
+          return mat[start];
+
+      // yahan total elements nahi,
+      // rows/arrays divide ho rahi hain
+      int mid=start+(end-start)/2;
+
+      vector<int>left =
+          mergesort(mat,start,mid);
+
+      vector<int>right =
+          mergesort(mat,mid+1,end);
+
+      return merge(left,right);
+  }
+
+
+  vector<int> mergeArrays(vector<vector<int>> &mat)
+  {
+      if(mat.empty())
+          return {};
+
+      return mergesort(mat,0,mat.size()-1);
+  }
+};
+
+
+
+
+
