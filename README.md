@@ -188,10 +188,12 @@ Solutions of LeetCode Problem in C++/Java
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -205,4 +207,16 @@ Solutions of LeetCode Problem in C++/Java
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
