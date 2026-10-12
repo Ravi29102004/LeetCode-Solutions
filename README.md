@@ -26,6 +26,7 @@ Solutions of LeetCode Problem in C++/Java
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1539-kth-missing-positive-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2050-parallel-courses-iii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [2050-parallel-courses-iii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -211,12 +213,15 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [2050-parallel-courses-iii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [2050-parallel-courses-iii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [2050-parallel-courses-iii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
