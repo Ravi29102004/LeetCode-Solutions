@@ -192,6 +192,7 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1192-critical-connections-in-a-network](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [1192-critical-connections-in-a-network](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [2050-parallel-courses-iii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
@@ -224,4 +226,12 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0207-course-schedule](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [2050-parallel-courses-iii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
