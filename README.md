@@ -234,4 +234,8 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
