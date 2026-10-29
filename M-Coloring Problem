@@ -1,0 +1,174 @@
+////////////////////=================Basic Approach===========================//
+
+
+// class Solution {
+// public:
+
+//     bool DFS(int node, vector<int> &color,
+//              vector<vector<int>> &adj, int m, int v)
+//     {
+//         // Base case
+//         if (node == v)
+//             return true;
+
+//         // Try each color
+//         for (int i = 0; i < m; i++)
+//         {
+//             bool IsPossible = true;
+
+//             // Check adjacent vertices
+//             for (int j = 0; j < v; j++)
+//             {
+//                 if (adj[node][j] && color[j] == i)
+//                 {
+//                     IsPossible = false;
+//                     break;
+//                 }
+//             }
+
+//             if (!IsPossible)
+//                 continue;
+
+//             // Assign color
+//             color[node] = i;
+
+//             // if (DFS(node + 1, color, adj, m, v))
+//             //     return true;
+            
+//             for(int j=0;j<v;j++)
+//             {
+//                 if(adj[node][j] && color[j]==-1)
+//                 {
+//                   if(!DFS(j,color,adj,m,v))
+//                   {
+//                     IsPossible=false;
+//                       break; 
+//                   } 
+//                 }
+                
+//              }
+
+//             // // Backtracking
+//             if(IsPossible)
+//             return true;
+            
+            
+//              color[node] = -1;     //move to the next color
+            
+//         }
+
+//         return false;
+//     }
+
+//     bool graphColoring(int v, vector<vector<int>> &edges, int m)
+//     {
+//         // Convert edges into adjacency matrix
+//         vector<vector<int>> adj(v, vector<int>(v, 0));
+
+//         for (auto &edge : edges)
+//         {
+//             int u = edge[0];
+//             int w = edge[1];
+
+//             adj[u][w] = 1;
+//             adj[w][u] = 1;
+//         }
+
+//         vector<int> color(v, -1);
+        
+//         //Disonnected graph for used it 
+//         for(int i=0;i<v;i++)
+//         if(color[i]==-1 && !DFS(i,color,adj,m,v))
+//         return 0;
+        
+        
+        
+//         return 1;
+        
+
+//         //return DFS(0, color, adj, m, v);
+//     }
+// };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////=======================Optimised Approach=======================///
+class Solution {
+public:
+
+
+   bool find(int node, vector<vector<int>> &adj, int m, int v, vector<int> &color)
+   {
+       if(node==v)
+       return 1;
+       
+       //color to find out m option
+       for(int i=0;i<m;i++)
+       {
+           //check if the adj doesnot have same color
+           bool IsPossible=1;
+           for(int j=0;j<v;j++)
+           {
+               if(adj[node][j] && color[j]==i)
+               {
+                   IsPossible =0;
+                   break;
+               }
+           }
+           //we can assign i the color to this node
+           if(IsPossible)
+           {
+               color[node]=i;
+               if(find(node+1,adj,m,v,color))
+               return 1;
+               color[node]=-1;
+           }
+       }
+       return 0;
+   }
+   
+   
+   
+   
+    bool graphColoring(int v, vector<vector<int>> &edges, int m)
+    {
+        // Convert edges into adjacency matrix
+        vector<vector<int>> adj(v, vector<int>(v, 0));
+
+        for (auto &edge : edges)
+        {
+            int u = edge[0];
+            int w = edge[1];
+
+            adj[u][w] = 1;
+            adj[w][u] = 1;
+        }
+
+        vector<int> color(v, -1);
+        
+        return find(0,adj,m,v,color);
+
+        //return DFS(0, color, adj, m, v);
+    }
+};
+
+
+
+
+
+
+
+
