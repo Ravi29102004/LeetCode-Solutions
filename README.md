@@ -9,6 +9,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0001-two-sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0047-permutations-ii) |
@@ -32,6 +33,7 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -115,6 +117,7 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -167,6 +170,7 @@ Solutions of LeetCode Problem in C++/Java
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sliding Window
@@ -237,5 +241,10 @@ Solutions of LeetCode Problem in C++/Java
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
