@@ -36,13 +36,26 @@ public:
         else 
         {
             // ans.push_back(p.top().second);
+            // p.pop();
             // timer+=p.top().first;
-              auto curr = p.top();
-                p.pop();
 
-                ans.push_back(curr.second);
 
-                timer += curr.first;
+
+            auto curr = p.top();
+            ans.push_back(curr.second);
+              p.pop();
+             timer += curr.first;
+
+
+
+
+            //    // Execute task with minimum processing time
+            //   auto curr = p.top();
+            //     p.pop();
+
+            //     ans.push_back(curr.second);
+
+            //     timer += curr.first;
         }
 
         }
