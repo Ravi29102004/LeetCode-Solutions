@@ -14,6 +14,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0046-permutations](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -40,6 +41,7 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0015-3sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -49,6 +51,7 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0015-3sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -247,4 +250,12 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
