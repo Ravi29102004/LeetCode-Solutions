@@ -28,6 +28,7 @@ Solutions of LeetCode Problem in C++/Java
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1539-kth-missing-positive-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1834-single-threaded-cpu](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2050-parallel-courses-iii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -55,6 +56,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1834-single-threaded-cpu](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -92,6 +94,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0239-sliding-window-maximum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1834-single-threaded-cpu](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
 |  |
 | ------- |
