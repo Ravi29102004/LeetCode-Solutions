@@ -14,6 +14,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0046-permutations](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
