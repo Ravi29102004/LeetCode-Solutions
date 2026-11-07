@@ -25,6 +25,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0239-sliding-window-maximum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -39,6 +40,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0001-two-sum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0621-task-scheduler](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0075-sort-colors](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
@@ -97,6 +100,7 @@ Solutions of LeetCode Problem in C++/Java
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1834-single-threaded-cpu](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
@@ -114,6 +118,7 @@ Solutions of LeetCode Problem in C++/Java
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -177,6 +182,7 @@ Solutions of LeetCode Problem in C++/Java
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
