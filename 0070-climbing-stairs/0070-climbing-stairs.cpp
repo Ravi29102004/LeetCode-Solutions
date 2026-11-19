@@ -99,29 +99,59 @@
 
 
 ///////////==================Space Optimisation==================
+// class Solution {
+// public:
+
+
+
+
+//     int climbStairs(int n) {
+
+//         vector<int>dp(n+2,-1);
+
+//         // dp[n]=1;
+//         // dp[n+1]=0;
+
+//         int curr, next=1, next2=0;
+
+//         for(int i=n-1;i>=0;i--)
+//         {
+//              curr=next+next2;
+//              next2=next;
+//              next=curr;
+//         }
+
+//        return curr; 
+//     }
+// };
+
+
+
+
+
+/////////////========Method-2 approch using for it nth position starting from it============
 class Solution {
 public:
 
+     int count(int n, vector<int> &dp)
+     {
+        if(n<=1)
+        return 1;
 
+
+        if(dp[n]!=-1)
+        return dp[n];
+
+
+        return dp[n]=count(n-1,dp)+count(n-2,dp);
+     }
 
 
     int climbStairs(int n) {
 
-        vector<int>dp(n+2,-1);
+        vector<int>dp(n+1,-1);
 
-        // dp[n]=1;
-        // dp[n+1]=0;
-
-        int curr, next=1, next2=0;
-
-        for(int i=n-1;i>=0;i--)
-        {
-             curr=next+next2;
-             next2=next;
-             next=curr;
-        }
-
-       return curr; 
+        return count(n,dp);
     }
 };
 
