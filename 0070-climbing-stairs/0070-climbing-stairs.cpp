@@ -64,33 +64,64 @@
 
 
 ////======================Bottom Up Approach===========================
+// class Solution {
+// public:
+
+// int count(int i, int n, vector<int> &dp)
+// {
+//     if(i==n)
+//     return 1;
+
+//     if(i>n)
+//     return 0;
+
+//     for(int i=n-1;i>=0;i--)
+//     {
+//         dp[i]=dp[i+1]+dp[i+2];
+//     }
+//     return dp[0];
+// }
+
+
+//     int climbStairs(int n) {
+
+//         vector<int>dp(n+2,-1);
+
+// ///Base Case
+//         dp[n]=1;
+//         dp[n+1]=0;
+
+//        return count(0,n,dp); 
+//     }
+// };
+
+
+
+
+///////////==================Space Optimisation==================
 class Solution {
 public:
 
-int count(int i, int n, vector<int> &dp)
-{
-    if(i==n)
-    return 1;
 
-    if(i>n)
-    return 0;
-
-    for(int i=n-1;i>=0;i--)
-    {
-        dp[i]=dp[i+1]+dp[i+2];
-    }
-    return dp[0];
-}
 
 
     int climbStairs(int n) {
 
         vector<int>dp(n+2,-1);
 
-        dp[n]=1;
-        dp[n+1]=0;
+        // dp[n]=1;
+        // dp[n+1]=0;
 
-       return count(0,n,dp); 
+        int curr, next=1, next2=0;
+
+        for(int i=n-1;i>=0;i--)
+        {
+             curr=next+next2;
+             next2=next;
+             next=curr;
+        }
+
+       return curr; 
     }
 };
 
