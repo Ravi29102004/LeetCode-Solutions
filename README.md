@@ -27,6 +27,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0435-non-overlapping-intervals](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1539-kth-missing-positive-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -82,6 +83,7 @@ Solutions of LeetCode Problem in C++/Java
 | [0085-maximal-rectangle](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [2050-parallel-courses-iii](https://github.com/Ravi29102004/LeetCode-Solutions/tree/master/2050-parallel-courses-iii) |
 ## Recursion
 |  |
