@@ -52,7 +52,7 @@ int Robber(int index, vector<int> &nums, vector<int> &dp)
     int rob(vector<int>& nums) {
         
         int n=nums.size();
-        vector<int>dp(n+1, -1);
+        vector<int>dp(n, -1);
         return Robber(n-1,nums,dp);
     }
 };
